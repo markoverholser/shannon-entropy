@@ -3,3 +3,4 @@ script_dir = scripts
 description = A package that provides functions for calculating
               Shannon entropy and metric entropy for strings
 tags = zeek scripting, entropy, shannon entropy, metric entropy
+aliases = shannon-entropy
